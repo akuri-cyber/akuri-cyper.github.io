@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      我的第一篇博客
+title:      hello world
 subtitle:   subtitle
 date:       2023-12-13
 author:     linyushan
